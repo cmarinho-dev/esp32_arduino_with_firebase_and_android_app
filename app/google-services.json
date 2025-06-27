@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "115361037487",
+    "firebase_url": "https://esp32-estacionamento-default-rtdb.firebaseio.com",
+    "project_id": "esp32-estacionamento",
+    "storage_bucket": "esp32-estacionamento.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115361037487:android:b0c235d5c072000110685a",
+        "android_client_info": {
+          "package_name": "com.example.wokwiesp32estacionamento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7MFtWgWnHJE1eZgRVh16YUqEQaZIXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
